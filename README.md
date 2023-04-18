@@ -8,4 +8,5 @@ SwiftUI, Color Picker, Grid, GridItem, LazyVGrid, Scene Creation, iOS Apps, Data
 
 ### [My youtube channel - iDevnva](https://www.youtube.com/@idevnva)
 
-![ColorPicker](https://user-images.githubusercontent.com/127990298/232315662-79f2275e-848a-490f-b032-f81a73cd3a34.jpg)
+
+![ColorPicker](https://user-images.githubusercontent.com/127990298/232866052-2d8479d1-c89e-4b69-90ce-9c255a67cec1.jpg)
